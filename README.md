@@ -12,3 +12,6 @@ async function GET_DATA() {
     console.log(`\nName: ${name}\nAge: ${age}\nFavourite game: ${favGame}`)
 }; GET_DATA();
 ```
+
+
+#### Upload will be soon!
