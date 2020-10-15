@@ -1,5 +1,7 @@
 # Asker
 
+> Create Components for your Asker and get the input from the console easily!
+
 ## Example
 ```javascript
 async function GET_DATA() {
