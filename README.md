@@ -1,6 +1,6 @@
 # Asker
 
-> Create Components for your Asker and get the input from the console easily!
+> ### Create Components for your Asker and get the input from the console easily!
 
 ## Example
 ```javascript
