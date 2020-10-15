@@ -14,7 +14,7 @@ async function GET_DATA() {
     console.log(`\nName: ${name}\nAge: ${age}\nFavourite game: ${favGame}`)
 }; GET_DATA();
 ```
-
+### The result
 ![Image of the example from above](https://raw.githubusercontent.com/Trebossalol/Asker/main/Functionality.PNG)
 
 
