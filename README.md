@@ -15,7 +15,7 @@ async function GET_DATA() {
 }; GET_DATA();
 ```
 
-[Image of the example from above](https://raw.githubusercontent.com/Trebossalol/Asker/main/Functionality.PNG)
+![Image of the example from above](https://raw.githubusercontent.com/Trebossalol/Asker/main/Functionality.PNG)
 
 
 #### Upload will be soon!
