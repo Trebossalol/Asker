@@ -2,6 +2,8 @@
 
 ### Create Components for your Asker and get the input from the console easily!
 
+### Please See [this file](https://github.com/Trebossalol/Asker/blob/main/Functionality.js) for a complete usage.
+
 ## Example
 ```javascript
 async function GET_DATA() {
