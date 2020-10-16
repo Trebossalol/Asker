@@ -36,7 +36,7 @@ async function start() {
     const username = await asker.once();
     const password = await asker.once();
 
-    console.log('\n', type, email, username, password);
+    console.log(`\n ${type} | ${email} | ${username} | ${password}`);
 
 };
 
