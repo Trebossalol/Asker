@@ -1,4 +1,5 @@
 // Copyright Trebossa 2020 Version 1.2
+// https://github.com/Trebossalol/Asker
 const Readline = require('readline');
 const colors = require('colors');
 function executeQueueItem(this_, Index) {
@@ -111,3 +112,4 @@ class Component {
 };
 module.exports={Asker,Component};
 // Copyright Trebossa 2020 Version 1.2
+// https://github.com/Trebossalol/Asker
