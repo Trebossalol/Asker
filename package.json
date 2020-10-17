@@ -1,0 +1,16 @@
+{
+  "name": "console-asker",
+  "version": "1.2.0",
+  "description": "Get inputs from your users easily!",
+  "main": "Functionality.js",
+  "scripts": {
+    "test": "node Functionality2"
+  },
+  "keywords": ["Console input", "Ask questions", "Input", ""],
+  "author": "Trebossa",
+  "license": "MIT",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "readline": "^1.3.0"
+  }
+}

@@ -1,0 +1,14 @@
+Asker 
+  - queue[] <component>                 Queue, Order of the components
+  - blocked <boolean>                   Indicates if the asker is blocked
+  - strict                              Enables the execution-strict mode, if true; Components won't be skippable anymore
+  - add                                 Add components
+  - remove                              Remove components
+  - once                                Execute a component
+
+
+Component
+  - message <string>                    The message or question of the component
+  - question <boolean>                  Component-type
+  - on_response <function/callback>     Optional callback with 3 helpfull parameteres
+  - skipped <boolean>                   Indicates if the component is, or will be skipped
